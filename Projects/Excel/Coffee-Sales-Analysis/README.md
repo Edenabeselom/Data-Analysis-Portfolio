@@ -4,7 +4,7 @@
 This project showcases an interactive sales dashboard developed in Excel. The objective was to analyze coffee sales performance, identify top-performing customers, and visualize regional sales trends to support data-driven decision-making.
 
 ## 📊 Dashboard Preview
-<img width="728" height="291" alt="image" src="https://github.com/user-attachments/assets/fd6f5442-e49a-4a11-9414-939862921a0c" />
+<img width="777" height="311" alt="image" src="https://github.com/user-attachments/assets/a1d4aa87-2fb0-4167-9895-6040240b6828" />
 
 ## 🛠 Key Features & Skills
 *   **🧹 Data Cleaning:** Processed raw sales data for consistency and accuracy.
