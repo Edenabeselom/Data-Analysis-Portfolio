@@ -22,9 +22,9 @@ I am committed to continuous professional growth, holding certifications in:
 * Advanced SQL and Python for Data Analysis
 
 ## 📬 Contact Information
-* **LinkedIn**: [https://www.linkedin.com/in/eden-abeselom/]
+* **LinkedIn**: https://www.linkedin.com/in/eden-abeselom/
 * **Telegram**: @IkezEDN
-* **Email**: [edenabeselom23@gmail.com]
+* **Email**: edenabeselom23@gmail.com
 
 ---
 *Created by Eden | Data Analyst & Researcher*
