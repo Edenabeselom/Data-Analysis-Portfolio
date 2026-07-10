@@ -1,4 +1,4 @@
-# Business and Data Analysis Portfolio
+# Data Analysis Portfolio
 
 Hello, I am **Eden Abeselom**, a professional Data Analyst and Researcher. This repository showcases my technical expertise in transforming raw data into actionable business insights through rigorous analysis and engineering-driven systems thinking.
 
