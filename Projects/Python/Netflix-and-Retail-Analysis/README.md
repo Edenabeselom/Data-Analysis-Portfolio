@@ -11,17 +11,16 @@ The Netflix dataset, containing 8,790 total titles, reveals a clear preference f
 ### Key Visualizations
 * **Content Distribution**: Movies constitute approximately 69.7% of the platform's library.
 * **Series Share**: TV shows account for the remaining 30.3% of the content catalog.
-
-![Netflix Content Type Distribution](image_1b0b61.png)
-![Percentage Share of Netflix Formats](image_1b0b7f.png)
+<img width="551" height="402" alt="image" src="https://github.com/user-attachments/assets/4b481157-27a7-45a2-82db-1fc9dcde4a25" />
+<img width="408" height="425" alt="image" src="https://github.com/user-attachments/assets/ced38872-9ea0-4870-9a16-83d7f53dee2a" />
 
 ### Trends and Insights
 * **Content Velocity**: The volume of media assets added to the platform experienced a significant surge between 2016 and 2019.
-  ![Chronological Velocity of Ingested Media Assets](image_1b0bd9.png)
+<img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/561c3e32-fc72-4282-8344-b63d3adef3b0" />
 
 * **Audience Ratings & Release Years**: The most prominent content certificate rating is **TV-MA**, and the library exhibits a specific statistical dispersion in production years.
-  ![Top 5 Prominent Audience Ratings](image_1b0bfe.png)
-  ![Statistical Dispersion of Title Production Release Years](image_1b0c37.png)
+* <img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/e1f293dc-0876-4ea2-84ac-719aaff166c2" />
+<img width="656" height="320" alt="image" src="https://github.com/user-attachments/assets/0f1085e3-d36f-4e51-9fe3-0565087aaedb" />
 
 ---
 
@@ -34,11 +33,12 @@ The e-commerce data, covering 524,878 total transactions, highlights significant
 * **Pricing & Yield**: Transactional unit prices for items under $10 show a high frequency of lower-priced items, while the interquartile spread of revenue yield per transaction line highlights the distribution of returns per order.
 * **Top Client Accounts**: The top 5 "whale" client accounts demonstrate significant gross procurement spend.
 
-![Top 5 Global Revenue Producing Jurisdictions](image_1b801c.png)
-![Transactional Unit Price Distribution (Items Under $10)](image_1b8040.png)
-![Top 5 Best Selling Inventory Items by Aggregate Volume](image_1b805e.png)
-![Interquartile Spread of Revenue Yield per Transaction Line](image_1b807a.png)
-![Top 5 Enterprise Whale Client Accounts by Gross Procurement Spend](image_1b8096.png)
+<img width="778" height="398" alt="image" src="https://github.com/user-attachments/assets/cf51a46a-6e09-46bc-b773-d006510f2c0e" />
+<img width="714" height="398" alt="image" src="https://github.com/user-attachments/assets/9afedf16-4fb9-4e7e-9be5-57515a3fce62" />
+
+<img width="979" height="397" alt="image" src="https://github.com/user-attachments/assets/8703db51-241f-4a9b-9a08-97c64d57be22" />
+<img width="640" height="321" alt="image" src="https://github.com/user-attachments/assets/020dbf19-1494-41d0-8264-5f180826f711" />
+<img width="723" height="397" alt="image" src="https://github.com/user-attachments/assets/9a1e6f82-bc08-41e4-9202-365c4c76dbe6" />
 
 ---
 
