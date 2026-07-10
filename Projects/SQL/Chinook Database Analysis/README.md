@@ -18,6 +18,7 @@ Analyzes track popularity by unit sales and revenue contribution.
 ### 2. Regional Customer Spending Rank
 Utilizes Common Table Expressions (CTEs) and `DENSE_RANK()` to rank customers by their total spending within their respective countries.
 <img width="543" height="393" alt="image" src="https://github.com/user-attachments/assets/69819132-f2e3-425f-8444-987b881c50fc" />
+
 ### 3. Track Inventory Assessment
 Demonstrates the use of `LEFT JOIN` to identify playlist structures, including those without associated tracks (returning `NULL` values).
 <img width="563" height="410" alt="image" src="https://github.com/user-attachments/assets/008afb9b-23ec-4390-85f0-b6738179333e" />
