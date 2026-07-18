@@ -17,10 +17,6 @@ The analysis reveals that different internet service technologies have significa
 
 ## 🖼 Dashboard Visualizations
 *Below is the key visualization derived from the analysis:*
-
-<img width="584" height="359" alt="image" src="https://github.com/user-attachments/assets/cb71a378-60e7-49fd-90da-64cf207a02ef" />
 <img width="786" height="302" alt="image" src="https://github.com/user-attachments/assets/781c50d7-806a-4446-9b26-21bb24a04bf8" />
 <img width="738" height="296" alt="image" src="https://github.com/user-attachments/assets/7b8a02f3-c033-47ca-b85b-3246670e9932" />
 
----
-*Maintained by Eden Abeselom Habteslasie*
