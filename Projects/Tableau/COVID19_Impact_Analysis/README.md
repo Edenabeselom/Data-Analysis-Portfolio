@@ -1,28 +1,28 @@
 # Global COVID-19 Confirmed Cases Analysis
 
-This repository contains data analysis regarding global COVID-19 confirmed cases, processed using Tableau[cite: 1].
+This repository contains data analysis regarding global COVID-19 confirmed cases, processed using Tableau.
 
 ## 📊 Project Overview
-This project visualizes the progression of COVID-19 cases globally based on historical time-series data[cite: 1]. The analysis focuses on tracking case volume and calculating the Case Fatality Rate (CFR) to better understand the pandemic's impact.
+This project visualizes the progression of COVID-19 cases globally based on historical time-series data. The analysis focuses on tracking case volume and calculating the Case Fatality Rate (CFR) to better understand the pandemic's impact.
 
 ## 📂 Data Dictionary
-The dataset (`time_series_covid19_confirmed_global.csv`) consists of the following key fields[cite: 1]:
+The dataset (`time_series_covid19_confirmed_global.csv`) consists of the following key fields:
 
 | Category | Field Name | Description |
 | :--- | :--- | :--- |
-| **Location** | `Province/State` | Sub-national region of the report[cite: 1] |
-| **Location** | `Country/Region` | Country or territory name[cite: 1] |
-| **Coordinates**| `Lat` / `Long` | Geographical coordinates[cite: 1] |
-| **Time** | `Date` | Records range from Jan 22, 2020 – Mar 9, 2023[cite: 1] |
+| **Location** | `Province/State` | Sub-national region of the report
+| **Location** | `Country/Region` | Country or territory name
+| **Coordinates**| `Lat` / `Long` | Geographical coordinates
+| **Time** | `Date` | Records range from Jan 22, 2020 – Mar 9, 2023
 
 ## 🛠 Technical Details
-*   **Analysis Tool**: Tableau (Version 18.1)[cite: 1]
-*   **Operating Environment**: Windows[cite: 1]
-*   **Build Version**: 2026.2.0 (20262.26.0603.1643)[cite: 1]
+*   **Analysis Tool**: Tableau (Version 18.1)
+*   **Operating Environment**: Windows
+*   **Build Version**: 2026.2.0 (20262.26.0603.1643)
 
 ## 📈 Key Metrics
-*   **Total Confirmed Cases**: Aggregated sum of confirmed reports[cite: 1].
-*   **Case Fatality Rate**: Calculated as $\frac{\sum \text{Deaths}}{\sum \text{Confirmed Cases}}$[cite: 1].
+*   **Total Confirmed Cases**: Aggregated sum of confirmed reports.
+*   **Case Fatality Rate**: Calculated as $\frac{\sum \text{Deaths}}{\sum \text{Confirmed Cases}}$
 
 ## 🖼 Dashboard Visualizations
 *Below are the key visualizations derived from the analysis:*
