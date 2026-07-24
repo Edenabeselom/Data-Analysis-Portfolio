@@ -28,7 +28,7 @@ The dataset (`Sample - Superstore.csv`) consists of the following key dimensions
 ## 🖼 Dashboard Visualizations
 *Below are the key visualizations derived from the analysis:*
 
-(<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/20111801-9a0f-4d4c-89a0-1b6270527f36" />)
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/20111801-9a0f-4d4c-89a0-1b6270527f36" />
 <img width="956" height="499" alt="image" src="https://github.com/user-attachments/assets/fef34e6c-8d99-4c3e-8401-6509f0a02d47" />
 <img width="938" height="494" alt="image" src="https://github.com/user-attachments/assets/23cf3368-7456-468b-9f5e-bab5e63bb84a" />
 <img width="931" height="505" alt="image" src="https://github.com/user-attachments/assets/0cacbead-f8af-48a9-b62e-3d9a795390df" />
