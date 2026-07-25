@@ -1,0 +1,6 @@
+City,Temperature_C,Humidity_Percent,Weather_Condition,Wind_Speed_ms,Recorded_At_UTC
+London,28.39,36,Broken clouds,2.68,2026-07-25 15:10:55
+New York,26.07,45,Clear sky,3.13,2026-07-25 15:18:02
+Tokyo,26.1,84,Overcast clouds,3.76,2026-07-25 15:17:22
+Nairobi,23.39,43,Scattered clouds,4.18,2026-07-25 15:19:20
+Paris,30.81,34,Clear sky,2.84,2026-07-25 15:11:44
