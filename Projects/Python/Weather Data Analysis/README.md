@@ -14,6 +14,6 @@ Chart Preview: Here is the visual representation of the weather data analysis mo
 
 * **Temperature Variations & Trends:** Comparative evaluations highlight regional temperature trajectories, with Paris recording the highest temperature at **30.81°C** and Nairobi recording the lowest at **23.39°C**.
 * **Moisture & Humidity Metrics:** Analysis of atmospheric humidity highlights Tokyo registering the highest moisture level at **84%**, corresponding with overcast conditions.
+* * **Analytical Scalability:** The established Jupyter Notebook framework serves as a robust end-to-end ETL pipeline for automated data extraction, cleaning, and reporting.
   <img width="1400" height="500" alt="weather_analysis_charts" src="https://github.com/user-attachments/assets/88c03bd0-c3ae-441b-87ed-139ea8e5d8b3" />
 
-* **Analytical Scalability:** The established Jupyter Notebook framework serves as a robust end-to-end ETL pipeline for automated data extraction, cleaning, and reporting.
