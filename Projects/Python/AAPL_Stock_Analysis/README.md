@@ -12,8 +12,7 @@ The AAPL stock dataset provides a detailed chronological view of market behavior
 
 > **Chart Preview:** Here is the visual representation of the AAPL stock analysis model.
 > 
-> ![AAPL Stock Analysis Chart](<img width="464" height="320" alt="image" src="https://github.com/user-attachments/assets/9d13acf1-130b-420e-8100-f50accb42bdc" />
-)
+> ![AAPL Stock Analysis Chart](<img width="464" height="320" alt="image" src="https://github.com/user-attachments/assets/9d13acf1-130b-420e-8100-f50accb42bdc" />)
 
 ### 🔍 Trends and Insights
 
