@@ -1,5 +1,3 @@
-<img width="464" height="320" alt="image" src="https://github.com/user-attachments/assets/c234f189-bf5a-4f8a-808d-7e49e68f16da" /># 📊 Data Analysis Report: Apple Inc. (AAPL) Stock & Time-Series Analysis
-
 ## 🎯 Overview
 
 This report documents the systematic data preparation, indexing, and exploratory time-series analysis of historical stock data for Apple Inc. (AAPL). The objective is to extract actionable intelligence and evaluate market performance trends using structured Python workflows.
