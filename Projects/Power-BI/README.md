@@ -36,7 +36,7 @@ All data cleaning and modeling steps were executed in **Power Query** prior to v
 ---
 
 ## 💡 Key Insights & Strategic Recommendations
-* 🌎 **Regional Disparity:** High-income regions (North America, Europe & Central Asia) maintain significantly higher indicator baseline averages—primarily driven by nominal GDP per capita values—compared to developing regions.
+* 🌎 **Regional Disparity:** High-income regions (North America, Europe & Central Asia) maintain significantly higher indicator baseline averages primarily driven by nominal GDP per capita values compared to developing regions.
 * 📶 **Digital Convergence:** Internet adoption expanded exponentially across all global regions between 2000 and 2023, serving as a primary driver of modern economic participation.
 * 🛡️ **Structural Resilience:** Human development metrics (life expectancy and primary school enrollment) demonstrated low volatility and steady multi-decade upward growth.
 * 🚀 **Actionable Recommendation:** Prioritize capital deployment into digital and educational infrastructure across lower-baseline regions (Sub-Saharan Africa and South Asia) while supporting fiscal stabilization buffers in volatile economic markets.
